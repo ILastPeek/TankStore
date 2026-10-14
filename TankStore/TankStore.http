@@ -1,0 +1,6 @@
+@TankStore_HostAddress = http://localhost:5181
+
+GET {{TankStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
